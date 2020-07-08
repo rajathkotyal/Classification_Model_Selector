@@ -18,4 +18,4 @@ various hyper parameters in real time & choose the best model for your data.
 6. Use the selected model to train your dataset in any app you are building as it will be the best fit for that particular dataset.
 
 ## Link to use :
-![bridge](https://www.lokeshdhakar.com/projects/lightbox2/images/image-3.jpg "bridge")
+![home](https://drive.google.com/uc?export=download&id=1JCE1gB_TvY7lLQZAfwBz54e03fqaXo6p)
