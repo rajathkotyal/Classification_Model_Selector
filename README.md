@@ -9,6 +9,8 @@ various hyper parameters in real time & choose the best model for your data.
 
 | X1 | X2 | X3 | ... | Xn | Outcome |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | | 0 |
+|  |  |  |  |  | 1 |
 
 3. Upload the dataset in CSV format.
 4. Choose the desired model from the side bar, Tweak the hyper parameters, Choose the matric & click classify.
