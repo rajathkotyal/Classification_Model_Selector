@@ -2,8 +2,3 @@ body {
     color: #000000;
     background-color: #E6E6FA;
 }
-
-div.background {
-  background: url(klematis.jpg) repeat;
-  border: 2px solid black;
-}
